@@ -7,5 +7,5 @@ Example:
 https://domain_apis.php?product_size=King%20size&product_origin=Mexico%20City
 
 //New page which will use url vars
-<div id="product_size">To replace</div>
-<div id="product_origin">To replace</div>
+'<div id="product_size">To replace</div>'
+'<div id="product_origin">To replace</div>'
